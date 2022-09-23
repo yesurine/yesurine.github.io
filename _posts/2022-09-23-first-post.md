@@ -1,13 +1,11 @@
 ---
-published: false
+layout: post
+title: 시작!
 ---
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 
 ## HBase
 
-요구에 의해 HBase 공식 사이트나 책을 통해 구조나 운영 방법을 배워 왔는데 기술적으로 좀 더 자세히 알고 싶어 이 곳에 기록을 남길 예정이다.
+HBase 공식 사이트나 책을 통해 구조나 운영 방법을 배워 왔는데 기술적으로 좀 더 자세히 알고 싶어 이 곳에 관련 기록을 남길 예정이다.
 
 
 ## HBase의 구성
